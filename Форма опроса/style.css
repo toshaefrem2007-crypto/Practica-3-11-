@@ -1,0 +1,22 @@
+body {
+  font-family: "Times New Roman", serif;
+  margin: 20px;
+}
+
+.field {
+  margin-bottom: 16px;
+}
+
+.interest {
+  display: block;
+}
+
+.error {
+  display: block;
+  color: #c0392b;
+  font-size: 14px;
+}
+
+.result {
+  margin-top: 24px;
+}
